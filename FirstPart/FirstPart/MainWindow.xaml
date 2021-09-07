@@ -1,0 +1,27 @@
+﻿<Window x:Class="FirstPart.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:FirstPart"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <Button x:Name="BTN" Content="Push" HorizontalAlignment="Left" Margin="327,217,0,0" VerticalAlignment="Top" Height="46" Width="94" Background="#FFC0ABE8" FontSize="20" Click="BTN_Click"/>
+
+        <TextBox x:Name="TXTBD" HorizontalAlignment="Left" Margin="314,183,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="152" Height="29"/>
+        <Label x:Name="LB1" Content="Birthdate" HorizontalAlignment="Left" Margin="220,180,0,0" VerticalAlignment="Top" FontSize="15" RenderTransformOrigin="0.734,0.702" Width="91" Height="37">
+            <Label.RenderTransform>
+                <TransformGroup>
+                    <ScaleTransform/>
+                    <SkewTransform AngleY="1.553"/>
+                    <RotateTransform Angle="-0.591"/>
+                    <TranslateTransform Y="-0.943"/>
+                </TransformGroup>
+            </Label.RenderTransform>
+        </Label>
+        <Label x:Name="LBOut" Content="Output" HorizontalAlignment="Left" Margin="235,286,0,0" VerticalAlignment="Top" FontSize="25" FontWeight="Bold"/>
+        <Label Content="Name" HorizontalAlignment="Left" Margin="235,103,0,0" VerticalAlignment="Top" FontSize="15" RenderTransformOrigin="-2.423,1.601"/>
+        <TextBox x:Name="Name" HorizontalAlignment="Left" Margin="327,103,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="120"/>
+    </Grid>
+</Window>

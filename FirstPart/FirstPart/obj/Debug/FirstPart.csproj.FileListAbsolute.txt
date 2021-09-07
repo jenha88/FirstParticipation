@@ -1,0 +1,15 @@
+C:\Users\pengu\source\repos\FirstParticipation\FirstPart\FirstPart\bin\Debug\FirstPart.exe.config
+C:\Users\pengu\source\repos\FirstParticipation\FirstPart\FirstPart\bin\Debug\FirstPart.exe
+C:\Users\pengu\source\repos\FirstParticipation\FirstPart\FirstPart\bin\Debug\FirstPart.pdb
+C:\Users\pengu\source\repos\FirstParticipation\FirstPart\FirstPart\obj\Debug\FirstPart.csproj.AssemblyReference.cache
+C:\Users\pengu\source\repos\FirstParticipation\FirstPart\FirstPart\obj\Debug\MainWindow.g.cs
+C:\Users\pengu\source\repos\FirstParticipation\FirstPart\FirstPart\obj\Debug\App.g.cs
+C:\Users\pengu\source\repos\FirstParticipation\FirstPart\FirstPart\obj\Debug\FirstPart_MarkupCompile.cache
+C:\Users\pengu\source\repos\FirstParticipation\FirstPart\FirstPart\obj\Debug\FirstPart_MarkupCompile.lref
+C:\Users\pengu\source\repos\FirstParticipation\FirstPart\FirstPart\obj\Debug\MainWindow.baml
+C:\Users\pengu\source\repos\FirstParticipation\FirstPart\FirstPart\obj\Debug\FirstPart.g.resources
+C:\Users\pengu\source\repos\FirstParticipation\FirstPart\FirstPart\obj\Debug\FirstPart.Properties.Resources.resources
+C:\Users\pengu\source\repos\FirstParticipation\FirstPart\FirstPart\obj\Debug\FirstPart.csproj.GenerateResource.cache
+C:\Users\pengu\source\repos\FirstParticipation\FirstPart\FirstPart\obj\Debug\FirstPart.csproj.CoreCompileInputs.cache
+C:\Users\pengu\source\repos\FirstParticipation\FirstPart\FirstPart\obj\Debug\FirstPart.exe
+C:\Users\pengu\source\repos\FirstParticipation\FirstPart\FirstPart\obj\Debug\FirstPart.pdb
